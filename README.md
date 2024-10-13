@@ -1,3 +1,3 @@
-# ritutoscriptv3
-使い方リリースからダウンロードします
+# 使い方
+リリースからダウンロードします
 downloadしたexeを実行するとconfigが生成されるので実行したいritutoscriptパスをconfigで指定してください
